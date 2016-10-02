@@ -1,7 +1,7 @@
 body {
   font-family: 'Open Sans', sans-serif;
-  color: DarkBlue;
-  background-color: Ivory;
+  color: white;
+  background-color: black;
   margin: 10px 50px 10px 50px;
 }
 
@@ -16,29 +16,12 @@ img {
 
 .left {
   float: left;
-  width: 300px;
-  padding: 15px;
 }
 .right {
   float:right;
-  width: 300px;
-  padding: 15px;
 }
 .center {
   margin-left: 300px;
   margin-right: 300px;
   padding: 15px;
-}
-
-#navbar ul {
-  list-style-type: none;
-}
-
-#navbar li {
-  display: inline;
-}
-
-#navbar a {
-  margin-left: 70px;
-  margin-right: 70px;
 }
